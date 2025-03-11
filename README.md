@@ -17,9 +17,8 @@ Crypto Tracker is a fast and efficient digital currency tracking system develope
 📈 React Google Charts – Visualizes cryptocurrency data with charts. 
 
 # 📸 Screenshot
+![ViteReact-GoogleChrome2025-03-1113-17-10-ezgif com-crop](https://github.com/user-attachments/assets/a84663d0-4786-4d31-8646-a1b229769013)
 
-
-![Uploading ViteReact-GoogleChrome2025-03-1113-17-10-ezgif.com-crop.gif…]()
 
 # 📧 Contact
 
